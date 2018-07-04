@@ -444,7 +444,8 @@ max-width:170px;
 .top-navbar{
 margin:0px;
 }
-.top-navbar .navbar-brand {color: #fff;width: 260px;text-align: left;height: 60px;font-size: 24px;font-weight: 700;/* text-transform: uppercase; */line-height: 30px;background: #F36A5A;}
+.top-navbar .navbar-brand {color: #fff;width: 260px;text-align: left;height: 60px;font-size: 24px;font-weight: 700;/* text-transform: uppercase; */line-height: 30px;background: #2EA7EB;}
+
 .navbar-brand b{
 color: #4BD28C;
 }
@@ -492,9 +493,9 @@ padding-top: 4px;
 }
 .active-menu, .active-menu i {
     background-color: #EDEDED !important;
-    color: #F36A5A !important;
+    color: #28adf3 !important;
 }
-.active-menu i{color: #F36A5A !important;}
+.active-menu i{color: #3891f3 !important;}
 .arrow {
     float: right;
     margin-top: 8px;
@@ -547,7 +548,7 @@ outline:0;
 	 
 background: #575757;
 	 
-color: #F36A5A;
+color: #349bf3;
 }
  
 .navbar-side {
@@ -561,7 +562,7 @@ color: #F36A5A;
 .top-navbar .nav > li > a > i {
 margin-right: 2px;
 }
-.top-navbar .navbar-brand:hover {color: #FFFFFF;background-color: #F36A5A;}
+.top-navbar .navbar-brand:hover {color: #FFFFFF;background-color: #3fb7f3;}
 .dropdown-user li {
 margin: 8px 0;
 }
